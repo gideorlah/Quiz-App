@@ -22,7 +22,7 @@ In this course, we are going to use fundamental HTML, CSS, and JavaScript skills
 
 Resources
 
--   [Course Source Code](https://github.com/jamesqquick/Design-And-Build-A-Quiz-App)
+-   [Project Source Code](https://github.com/gideorlah/Quiz-App)
 
 ## 1. Create and Style the Home Page
 
